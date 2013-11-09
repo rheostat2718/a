@@ -1,0 +1,1 @@
+"./startup_ccs.obj" "./sensors.obj" "./motors.obj" "./modbus.obj" "./misc.obj" "./main.obj" "./commandinterpreter.obj" -l"libc.a" "C:/Users/cmcain/tivaware/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" 
